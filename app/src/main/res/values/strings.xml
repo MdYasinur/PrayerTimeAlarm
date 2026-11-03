@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">নামাজের আজান</string>
+    <string name="header_title">৫ ওয়াক্ত নামাজের আজান</string>
+    <string name="header_subtitle">সময় পরিবর্তন করতে যেকোনো ওয়াক্তে ট্যাপ করুন</string>
+    <string name="azan_sound">আজানের সাউন্ড</string>
+    <string name="pick_audio">আজানের অডিও বাছাই করুন</string>
+    <string name="reset_audio">ডিফল্ট সাউন্ড</string>
+    <string name="test_azan">টেস্ট আজান</string>
+    <string name="stop_azan">আজান বন্ধ করুন</string>
+    <string name="default_sound">ডিফল্ট সাউন্ড ব্যবহার হচ্ছে</string>
+    <string name="developer">Developer: Yasinur Rahman</string>
+    <string name="channel_name">আজান</string>
+    <string name="stop">বন্ধ করুন</string>
+    <string name="exact_alarm_title">অনুমতি প্রয়োজন</string>
+    <string name="exact_alarm_msg">ঠিক সময়ে আজান দেওয়ার জন্য \"Alarms &amp; reminders\" অনুমতি চালু করুন।</string>
+    <string name="open_settings">সেটিংস খুলুন</string>
+    <string name="later">পরে</string>
+</resources>
